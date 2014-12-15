@@ -74,6 +74,7 @@ or Maven:
   <groupId>org.lucasr.dspec</groupId>
   <artifactId>dspec</artifactId>
   <version>0.1.1</version>
+  <type>aar</type>
 </dependency>
 ```
 
